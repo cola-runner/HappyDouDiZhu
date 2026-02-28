@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+AlphaDou/
+DouZero/
+.game_state.json
+*.png
